@@ -12,6 +12,15 @@ A complete hospital management system implemented in **Microsoft SQL Server**, d
 
 ---
 
+## 🖼️ ERD & Logical Mapping
+
+| Image | Description |
+|-------|-------------|
+| ![ERD](Hospital%20Project%20DB-ERD.png) | Full Entity-Relationship Diagram |
+| ![Mapping](Mapping%20For%20Hospital%20Project.png) | Mapping for ERD (Entities ↔ Tables) |
+
+---
+
 ## 📂 Folder Contents
 
 | File Name                                          | Description                                |
@@ -20,7 +29,6 @@ A complete hospital management system implemented in **Microsoft SQL Server**, d
 | `HospitalDB_Sample_data_insertion.sql`             | Inserts data in tables                     |
 | `Views_triggers_procedures_functions_quiereis.sql` | All views, triggers, procedures, functions |
 | `HospitalDB_SQL_Server_Job.sql`                    | SQL Server Agent Job script                |
-           
 
 ---
 
