@@ -1,7 +1,6 @@
 # 🏥 Hospital Management System - SQL Project
 
 [![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Author](https://img.shields.io/badge/Author-Samir-blue)](#)
 
 ## 📘 Overview
