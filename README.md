@@ -17,7 +17,7 @@ A complete hospital management system implemented in **Microsoft SQL Server**, d
 | Image | Description |
 |-------|-------------|
 | ![ERD](Hospital%20Project%20DB-ERD.png) | Full Entity-Relationship Diagram |
-| ![Mapping](Mapping%20For%20Hospital%20Project.png) | Mapping for ERD (Entities ↔ Tables) |
+| ![Mapping](HospitalDB_Table_Entity_Mapping.png) | Mapping for ERD (Entities ↔ Tables) |
 
 ---
 
